@@ -161,3 +161,4 @@ def main():
 
 
 main()
+# Used ChatGPT to help with curving part of the function and to help with the error handling.
